@@ -1,5 +1,6 @@
 # Rakuten-Strategic-Analysis
 Reform strategies for Rakuten to enter the UK market
+
 Rakuten is one of the world's largest Internet service companies founded in Japan. Rakuten's business portfolio has 2 business segments,
 1. Internet services: E-commerce sites, travel, books, communications, etc.
 2. Financial technologies: Banking and Securities, Credit cards, Life insurance, etc.
